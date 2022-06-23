@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Bruno Kutzke</h1>
 <h3 align="center">Sou Analista de QA com foco em automação</h3>
 
-- 🔭 Trabalho desde junho/2020 na Wiser Educação
+- 🔭 Trabalho desde junho/2020 na empresa Wiser Educação, automatizando testes de front e back-end com o framework Cypress
 
 - 🌱 Estou sempre em constante aprendizado, no momento estou aprendendo automação de testes de API com Postman
 
