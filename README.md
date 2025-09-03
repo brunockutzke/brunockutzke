@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou o Bruno Kutzke, seja bem-vindo ao meu GitHub (:</h1>
-<h1 align="center">Hi, my name is Bruno Kutzke, welcome to my GitHub account (:</h1>
+<h1 align="center">Hi, I am Bruno Kutzke, welcome to my GitHub profile (:</h1>
 <h3 align="center">Sou Analista de QA com foco em automação de front e back-end/ I'm a Quality Assurance Analyst, focused on front and back-end Test Automation</h3>
 
 - 🔭 Trabalho desde julho/2022 na empresa Audaces, automatizando testes de front e back-end com o framework Cypress em um Sistema PLM(Product Lifecycle Management)
